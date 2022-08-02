@@ -1,0 +1,6 @@
+Step 1: Decide which pizza place to order from
+Step 2: Decide which type of pizza you want
+Step 2a: Decide whether you would like to pick up or have delivery
+Step 3: Call the agreed upon pizza place 
+Step 4: Place decided order of pizza and pay
+Step 5: If delivery is chosen, wait for delivery.
