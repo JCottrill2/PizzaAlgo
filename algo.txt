@@ -4,3 +4,7 @@ Step 2a: Decide whether you would like to pick up or have delivery
 Step 3: Call the agreed upon pizza place 
 Step 4: Place decided order of pizza and pay
 Step 5: If delivery is chosen, wait for delivery.
+
+If order is wrong
+Step 1: call pizza place to tell them order is wrong.
+Step 2: Request replacement.
